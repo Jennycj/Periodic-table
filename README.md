@@ -1,2 +1,2 @@
-# frontend-task-wk3
+# Periodic table
 A simple periodic table design.
